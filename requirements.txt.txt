@@ -1,0 +1,17 @@
+
+---
+
+## Technologies Used
+- Python
+- NumPy
+- Pandas
+
+- Scikit-learn
+- Streamlit
+
+---
+
+## Usage
+1. Train the model using the provided Jupyter Notebook.
+2. Save the trained model as `model.pkl`.
+3. Run the Streamlit application:
